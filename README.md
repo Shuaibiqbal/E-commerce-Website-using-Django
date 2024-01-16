@@ -36,7 +36,6 @@ How to Run:
 
     Install Django:
 
-    bash
 
 pip install django
 
@@ -44,19 +43,17 @@ Database Setup:
 
     Make migrations:
 
-    bash
 
 python manage.py makemigrations
 
 Apply migrations:
 
-bash
+
 
     python manage.py migrate
 
 Run the Server:
 
-bash
 
 python manage.py runserver
 
